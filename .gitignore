@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+nexusEnv/
+venv/
+.env/
+__pycache__/
+
+# Ignore system and IDE files
+.DS_Store
+*.log
+*.tmp
+
+# Ignore media files
+*.mp4
+*.mov
+*.avi
+
+# Node modules if applicable
+node_modules/
+n
